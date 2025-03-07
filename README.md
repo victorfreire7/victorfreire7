@@ -13,5 +13,6 @@
 ![Blog](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Blog](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
 
-### 💬 Você também pode entrar em contato comigo via E-mail! 
+### 💬 Você também pode entrar em contato comigo por estes meios! 
 - vhugo.freire159@gmail.com
+- +55 11 95249-1055
