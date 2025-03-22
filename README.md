@@ -15,5 +15,5 @@
 
 ### 💬 Você também pode entrar em contato comigo por estes meios! 
 - vhugo.freire159@gmail.com
-- [linkedin.com](https://www.linkedin.com/in/victorfreire7/)
+- [LinkedIn](https://www.linkedin.com/in/victorfreire7/)
 - +55 11 95249-1055
