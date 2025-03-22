@@ -16,3 +16,4 @@
 ### 💬 Você também pode entrar em contato comigo por estes meios! 
 - vhugo.freire159@gmail.com
 - +55 11 95249-1055
+- linkedin.com/in/victorfreire7
