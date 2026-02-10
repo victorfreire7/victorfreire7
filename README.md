@@ -1,16 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=200&size=40&duration=3000&pause=1500&color=DBF227&background=FFFFFF00&center=true&vCenter=true&width=1080&height=100&separator=%3C&lines=console.log('Hello+World!');%3Cconst+name%3A+string+%3D+'Victor+Hugo';%3Cnpx+ts-node+--files+--transpile-only%3C%3A)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Google+Sans&weight=200&size=40&duration=3000&pause=1500&color=DBF227&background=FFFFFF00&center=true&vCenter=true&width=1080&height=100&separator=%3C&lines=console.log('Hello+World!');%3Cconst+name%3A+string+%3D+'Victor+Hugo';%3Cnpx+ts-node+--files+--transpile-only%3C%3A>)](https://git.io/typing-svg)
 
-<<<<<<< Updated upstream
-#### 🛸 Meu nome é Victor Hugo, sou um Desenvolvedor Full-Stack com 3 anos de estudo sólida na área de Informática Para Internet.
-
-#### Atualmente eu curso Bacharel em Ciência da Computação na FIAP - Faculdade de Informática e Admnistração Paulista . Também tenho formação em ensino médio técnico profissional em informática pra internet e formação em ensino técnico modular em desenvolvimento de sistemas (1200h, 3 semestres). Ambos dentro da Escola Técnica Estadual (ETEC) Professor Adhemar Batista Heméritas!
-=======
 ##
 
 > Full-Stack Dev
->>>>>>> Stashed changes
 
-``` Sobre mim
+```Sobre mim
     Olá!
     Eu me chamo Victor Hugo, sou um desenvolvedor Full-Stack com mais de 3 anos
     de estudos sólidos na área da técnologia.
@@ -25,7 +19,7 @@
     bastante comunicativa e organizada, que busca sempre por mais conhecimento.
 ```
 
-## 
+##
 
 #### 🛸 Tecnologias e Ferramentas:
 
@@ -44,12 +38,13 @@
 ##
 
 <!-- ![til](/docs/gif-monogramme.gif) -->
+
 ![gif](/docs/Comp-1.gif)
 
-## 
+##
 
 #### 💬 Você também pode entrar em contato comigo por estes meios:
 
-[LinkedIn](https://www.linkedin.com/in/victorfreire7/)
-[victorfreire014@gmail.com](victorfreire014@gmail.com)
-[WhatsApp](https://wa.me/5511952491055)
+- [LinkedIn](https://www.linkedin.com/in/victorfreire7/)
+- [victorfreire014@gmail.com](victorfreire014@gmail.com)
+- [WhatsApp](https://wa.me/5511952491055)
