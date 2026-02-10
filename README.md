@@ -1,8 +1,8 @@
 ## Oi, Tudo bem? 👋
 
-#### 🛸 Meu nome é Victor Hugo, tenho 17 anos e sou um Desenvolvedor Full-Stack com 3 anos de estudo sólida na área de Informática Para Internet.
+#### 🛸 Meu nome é Victor Hugo, sou um Desenvolvedor Full-Stack com 3 anos de estudo sólida na área de Informática Para Internet.
 
-#### Atualmente, tenho formação em ensino médio técnico profissional em informática pra internet & formação em ensino técnico modular em desenvolvimento de sistemas (1200h, 3 semestres). Ambos dentro da Escola Técnica Estadual (ETEC) Professor Adhemar Batista Heméritas!
+#### Atualmente eu curso Bacharel em Ciência da Computação na FIAP - Faculdade de Informática e Admnistração Paulista . Também tenho formação em ensino médio técnico profissional em informática pra internet e formação em ensino técnico modular em desenvolvimento de sistemas (1200h, 3 semestres). Ambos dentro da Escola Técnica Estadual (ETEC) Professor Adhemar Batista Heméritas!
 
 #### Em Adição aos meus conhecimentos no setor de tecnologia, sou uma pessoa bastante comunicativa e organizada, que busca sempre por mais conhecimento.
 
