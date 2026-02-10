@@ -1,5 +1,5 @@
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Google+Sans&weight=200&size=40&duration=3000&pause=1500&color=DBF227&background=FFFFFF00&center=true&vCenter=true&width=1080&height=100&separator=%3C&lines=console.log('Hello+World!');%3Cconst+name%3A+string+%3D+'Victor+Hugo';%3Cnpx+ts-node+--files+--transpile-only%3C%3A>)](https://git.io/typing-svg)
-> Full-Stack Dev
+> Full-Stack Dev.
 
 ```Sobre mim
     Olá!
