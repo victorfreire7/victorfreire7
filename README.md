@@ -6,9 +6,9 @@
     Eu me chamo Victor Hugo, sou um desenvolvedor Full-Stack com mais de 3 anos
     de estudos sólidos na área da técnologia.
 
-    Atualmente, estou no processo da minha graduaçaõ em Ciência da Computação, na
+    Atualmente, estou no processo da minha graduação em Ciência da Computação, na
     FIAP (Faculdade de Informática e Admnistração Paulista). Realizei o ensino
-    médio integrado ao curso Profissionalizante em Informática para Interner na
+    médio integrado ao curso Profissionalizante em Informática para Internet na
     ETEC. Também tenho formação Técnica Profissional em Desenvolvimento de
     Sistemas (1200 horas, 3 semestres) pela mesma instituição.
 
